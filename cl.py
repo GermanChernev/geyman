@@ -2,7 +2,7 @@ import threading
 from socket import *
 from customtkinter import *
 from PIL import Image
-#hi
+#hуддщ
 
 class MainWindow(CTk):
     def __init__(self):
